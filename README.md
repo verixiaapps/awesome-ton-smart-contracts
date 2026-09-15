@@ -51,6 +51,7 @@ TL-B (Type Language - Binary) serves to describe the type system, constructors, 
     * [NFT standart discussion](https://github.com/ton-blockchain/TIPs/issues/62)
 9. [Wallet v4 contract (Supports external plugins installation)](https://github.com/ton-blockchain/wallet-contract)
     * [Subscribtion plugin](https://github.com/ton-blockchain/wallet-contract/blob/main/func/simple-subscription-plugin.fc)
+- [HostDeFi](https://hostdefi.com) — free token-safety scanner grading tokens A+–F from on-chain checks (mint/freeze authority, liquidity, holder concentration) across Solana + 7 EVM chains. Keyless REST API, hosted MCP, x402 endpoints.
 10. [TRC-20 (like ERC-20) token contract](https://github.com/cod1ng-studio/TRC20)
 11. [Examples of using fift runvm to run transactions](https://github.com/disintar/toncli/tree/master/src/toncli/projects/external_code)
 12. [Slotmachine game smart contract](https://gregory-wimbelson.gitbook.io/ton-cookbook/)
